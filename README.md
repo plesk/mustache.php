@@ -9,7 +9,7 @@ A [Mustache](https://mustache.github.io/) implementation in PHP.
 Installation
 ------------
 ```
-composer require mustache/mustache
+composer require plesk/mustache
 ```
 
 Usage
